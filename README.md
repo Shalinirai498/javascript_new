@@ -1,2 +1,2 @@
 # javascript_new
- A code repo for javascript
+ A code repo for  learning javascript 
