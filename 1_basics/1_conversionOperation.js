@@ -20,3 +20,29 @@ console.log(stringNumber)
 console.log(typeof stringNumber)
 
 
+//              operations        //
+let values=3
+let neqvalue=-values
+console.log(neqvalue);
+// console.log(4+4);
+// console.log(4-4);
+// console.log(4*4);
+// console.log(4**3);
+// console.log(6/3);
+// console.log(4%3);
+// let str= "hello"
+let str1="shalu"
+let str3=str+str1
+console.log(str3);
+console.log("4"+"4");
+console.log(4+5+"4");
+console.log("4"+4+5);
+console.log(4+4);
+
+
+
+
+
+
+
+
