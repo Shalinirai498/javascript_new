@@ -48,6 +48,24 @@ myFunction()
 // Function  =>  function
 // Object  =>  object
 
+//++++++++++++++++++++++++++++++++++++++++++++++
+// stack(Primitive),heap(Non Primitive)
+
+// let myvalue= "Shalini"
+// let anothervalue=myvalue
+// anothervalue="chaiorcode"
+// console.log(myvalue)
+// console.log(anothervalue)
+let userone={
+    name:"shalu",
+    age: 55,
+}
+let userTwo=userone
+userTwo.name="shalini_rai"
+console.log(userone.name)
+
+
+
 
 
 
