@@ -19,19 +19,19 @@
 // int x = 10; // x is a variable of type int
 // String name = "John"; // name is a variable of type String
 // JavaScript's dynamic typing allows for more flexibility but can lead to potential runtime errors if not handled carefully. Static typing, on the other hand, provides better type safety at the cost of some initial verbosity and strictness.
-const id= Symbol('154')
-const anotherid= Symbol('154')
-//console.log(id===anotherid);
-const heros=["shakti","raghav","doga"]//array
-let myobj={
-    name:"shalu",
-    age: 55,
-}//object
-const myFunction=function(){
-    console.log("hello world");
+// const id= Symbol('154')
+// const anotherid= Symbol('154')
+// //console.log(id===anotherid);
+// const heros=["shakti","raghav","doga"]//array
+// let myobj={
+//     name:"shalu",
+//     age: 55,
+// }//object
+// const myFunction=function(){
+//     console.log("hello world");
 
-}//function
-myFunction()
+// }//function
+// myFunction()
 
 //Return type of variables in JavaScript
 // 1) Primitive Datatypes
@@ -51,18 +51,18 @@ myFunction()
 //++++++++++++++++++++++++++++++++++++++++++++++
 // stack(Primitive),heap(Non Primitive)
 
-// let myvalue= "Shalini"
-// let anothervalue=myvalue
-// anothervalue="chaiorcode"
-// console.log(myvalue)
-// console.log(anothervalue)
-let userone={
-    name:"shalu",
-    age: 55,
-}
-let userTwo=userone
-userTwo.name="shalini_rai"
-console.log(userone.name)
+let myvalue= "Shalini"
+let anothervalue=myvalue
+anothervalue="chaiorcode"
+console.log(myvalue)
+console.log(anothervalue)
+// let userone={
+//     name:"shalu",
+//     age: 55,
+// }
+// let userTwo=userone
+// userTwo.name="shalini_rai"
+// console.log(userone.name)
 
 
 
